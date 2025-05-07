@@ -3,11 +3,11 @@
 
 This repository contains the course project for DA623 (Winter 2025) by **Ankan Das**.
 
-The project explores the paper [LLaVA-MoD](https://arxiv.org/abs/2403.06878), which presents a lightweight vision-language model using Mixture-of-Experts and progressive knowledge distillation.
+The project explores the paper [LLaVA-MoD](https://www.researchgate.net/publication/383494370_LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation), which presents a lightweight vision-language model using Mixture-of-Experts and progressive knowledge distillation.
 
 ## 📘 Contents
 
-- `notebook/LLaVA_MoD_Blog_Ankan.ipynb` — Blog-style explanation covering:
+- `LLaVA_MoD_Blog_Ankan.ipynb` — Blog-style explanation covering:
   - Motivation behind the project
   - Architectural breakdown of LLaVA-MoD
   - Key insights and learning from the paper
@@ -16,7 +16,7 @@ The project explores the paper [LLaVA-MoD](https://arxiv.org/abs/2403.06878), wh
 
 ## 🔗 References
 
-- [Paper on arXiv](https://arxiv.org/abs/2403.06878)  
+- [Paper on Research Gate](https://www.researchgate.net/publication/383494370_LLaVA-MoD_Making_LLaVA_Tiny_via_MoE_Knowledge_Distillation)
 - [Official GitHub Repo](https://github.com/shufangxun/LLaVA-MoD)  
 - [CLIP by OpenAI](https://github.com/openai/CLIP)  
 - [Qwen-VL](https://huggingface.co/Qwen/Qwen-VL)
