@@ -7,7 +7,7 @@ The project explores the paper [LLaVA-MoD](https://www.researchgate.net/publicat
 
 ## 📘 Contents
 
-- `LLaVA_MoD_Blog_Ankan.ipynb` — Blog-style explanation covering:
+- `Blog_Ankan.ipynb` — Blog-style explanation covering:
   - Motivation behind the project
   - Architectural breakdown of LLaVA-MoD
   - Key insights and learning from the paper
